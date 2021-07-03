@@ -1,0 +1,2 @@
+# Goroutine
+Goroutines executes programs simultaneously instead of in ascending orders(top to bottom). A time.Sleep() was added to delay the gorountines for about 250ms before it go on with the next execution.
